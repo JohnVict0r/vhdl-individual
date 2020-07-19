@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnvict0rvhdl-individual.svg">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnvict0r/vhdl-individual.svg">
-  
   <a href="https://github.com/johnvict0r/vhdl-individual/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnvict0r/vhdl-individual.svg">
   </a>
